@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herbpedia", "Herbpedia\Herbpedia.csproj", "{F89A2B30-A3F0-4D90-8A2B-615AE59C7537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F89A2B30-A3F0-4D90-8A2B-615AE59C7537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89A2B30-A3F0-4D90-8A2B-615AE59C7537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89A2B30-A3F0-4D90-8A2B-615AE59C7537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89A2B30-A3F0-4D90-8A2B-615AE59C7537}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0A734E7-F210-49EE-9801-DC48CA485F2C}
+	EndGlobalSection
+EndGlobal
